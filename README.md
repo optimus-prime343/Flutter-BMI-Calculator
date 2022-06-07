@@ -1,11 +1,7 @@
 # bmi_calculator
 
-<div style="width:100px;height:100px">
-![Home Page](/assets/images/Home.png?raw=true "Home Page")
-</div>
-<div style="width:100px;height:100px">
-![Result Page](/assets/images/Result.png?raw=true "Result Page")
-</div>
+[<img src='/assets/images/Home.png' width='60' />]('/assets/images/Home.png')
+[<img src='/assets/images/Result.png' width='60' />]('/assets/images/Result.png')
 
 A new Flutter project.
 
